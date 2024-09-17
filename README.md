@@ -6,7 +6,7 @@ A Foundry VTT module to share WWN data between worlds via compendia.
 
 1. Go to the Add-on Modules tab within the FoundryVTT Configuration and Setup page.
 2. Click the `Install Module` button.
-3. Paste the Module's [Manifest URL](https://raw.githubusercontent.com/sirkerry/wwn-homebrew/main/module.json)
+3. Paste the Module's [Manifest URL]( "manifest": "https://github.com/sirkerry/wwn-homebrew/releases/latest/download/module.json",)
    into the `Manifest URL` field.
 4. Click the `Install` button.
 
