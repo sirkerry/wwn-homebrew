@@ -31,15 +31,15 @@ _Remember_ that you need to unlock your compendia to be able to add things to th
 
 This module comes with 9 Default compendia:
 
-- `Homebrew Actors` ([Actor](https://foundryvtt.com/article/actors/))
+- `Homebrew Actors` ([Actors](https://foundryvtt.com/article/actors/))
 - `Homebrew Adventures` ([Adventure](https://foundryvtt.com/article/adventure/))    
 - `Homebrew Card Stacks` ([Cards](https://foundryvtt.com/article/cards/))
-- `Homebrew Items` ([Item](https://foundryvtt.com/article/items/))
+- `Homebrew Items` ([Items](https://foundryvtt.com/article/items/))
 - `Homebrew Journal Entries` ([JournalEntry](https://foundryvtt.com/article/journal/))
-- `Homebrew Macros` ([Macro](https://foundryvtt.com/article/macros/))
-- `Homebrew Playlists` ([Playlist](https://foundryvtt.com/article/playlists/))
-- `Homebrew Rollable Tables` ([RollTable](https://foundryvtt.com/article/roll-tables/))
-- `Homebrew Scenes` ([Scene](https://foundryvtt.com/article/scenes/))
+- `Homebrew Macros` ([Macros](https://foundryvtt.com/article/macros/))
+- `Homebrew Playlists` ([Playlists](https://foundryvtt.com/article/playlists/))
+- `Homebrew Rollable Tables` ([RollTables](https://foundryvtt.com/article/roll-tables/))
+- `Homebrew Scenes` ([Scenes](https://foundryvtt.com/article/scenes/))
 
 ## Customize
 
