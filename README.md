@@ -20,7 +20,7 @@ A Foundry VTT module to share WWN data between worlds via compendia.
   2. Find this module (WWN Homebrew) in the list, and click the padlock icon.
 - Option 2: Updating your `module.json` file:
   1. Go to the Module's installation folder within foundry (`~/Data/modules/wwn-homebrew`) and update the `module.json` file.
-  2. Remove lines 108-109 (`url` and `manifest`) and save the file.
+  2. Remove lines 108-109 (`download` and `manifest`) and save the file.
   3. Restart Foundry to reload the module.
 
 ### Unlock your Compendia!
