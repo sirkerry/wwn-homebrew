@@ -106,6 +106,6 @@
     }
   ],
   "download": "https://github.com/sirkerry/wwn-homebrew/archive/v1.0.0.zip",   
-  "manifest": "https://raw.githubusercontent.com/sirkerry/wwn-homebrew/main/module.json",
+  "manifest": "https://github.com/sirkerry/wwn-homebrew/releases/latest/download/module.json",
   "url": "https://github.com/sirkerry/wwn-homebrew"
 }
