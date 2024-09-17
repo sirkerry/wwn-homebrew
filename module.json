@@ -1,0 +1,110 @@
+{
+  "id": "wwn-homebrew",
+  "title": "WWN Homebrew",
+  "description": "Creates default set of homebrewed compendia that can be shared across Foundry VTT worlds hosted on the same server.",
+  "authors": [
+    {
+      "name": "Kerry Harrison",
+      "discord": "sirkerry",
+      "url": "https://github.com/sirkerry"	  
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "homebrew-actors",
+      "system": "wwn",
+      "label": "Homebrew Actors",
+      "path": "./packs/homebrew-actors.db",
+      "module": "wwn-homebrew",
+      "type": "Actor"
+    }, 
+ {
+      "name": "homebrew-adventures",
+      "system": "wwn",
+      "label": "Homebrew Adventures",
+      "path": "./packs/homebrew-adventures.db",
+      "module": "wwn-homebrew",
+      "type": "Adventure"
+    },
+    {
+      "name": "homebrew-card-stacks",
+      "system": "wwn",
+      "label": "Homebrew Card Stacks",
+      "path": "./packs/homebrew-card-stacks.db",
+      "module": "wwn-homebrew",
+      "type": "Cards"
+    },
+    {
+      "name": "homebrew-items",
+      "system": "wwn",
+      "label": "Homebrew Items",
+      "path": "./packs/homebrew-items.db",
+      "module": "wwn-homebrew",
+      "type": "Item"
+    },
+    {
+      "name": "homebrew-journal-entries",
+      "system": "wwn",
+      "label": "Homebrew Journal Entries",
+      "path": "./packs/homebrew-journal-entries.db",
+      "module": "wwn-homebrew",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "homebrew-macros",
+      "system": "wwn",
+      "label": "Homebrew Macros",
+      "path": "./packs/homebrew-macros.db",
+      "module": "wwn-homebrew",
+      "type": "Macro"
+    },
+    {
+      "name": "homebrew-playlists",
+      "system": "wwn",
+      "label": "Homebrew Playlists",
+      "path": "./packs/homebrew-playlists.db",
+      "module": "wwn-homebrew",
+      "type": "Playlist"
+    },	
+    {
+      "name": "homebrew-rollable-tables",
+      "system": "wwn",
+      "label": "Homebrew Rollable Tables",
+      "path": "./packs/homebrew-rollable-tables.db",
+      "module": "wwn-homebrew",
+      "type": "RollTable"
+    },
+    {
+      "name": "homebrew-scenes",
+      "system": "wwn",
+      "label": "Homebrew Scenes",
+      "path": "./packs/homebrew-scenes.db",
+      "module": "wwn-homebrew",
+      "type": "Scene"
+    }
+ ],
+  "packFolders":[
+    {
+      "name": "Worlds Without Number Homebrew",
+      "sorting": "m",
+      "packs": [
+        "homebrew-actors",
+        "homebrew-adventures",
+        "homebrew-card-stacks",
+        "homebrew-items",
+        "homebrew-journal-entries",
+        "homebrew-macros",
+        "homebrew-playlists",
+        "homebrew-rollable-tables",		
+        "homebrew-scenes"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/sirkerry/wwn-homebrew/releases/latest/download/module.json",
+  "url": "https://github.com/sirkerry/wwn-homebrew"
+}
